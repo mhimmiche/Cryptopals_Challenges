@@ -10,7 +10,8 @@ def main():
     elif sys.argv[1] == "challenge1":
         challenge1()
     elif sys.argv[1] == "challenge2":
-        challenge2()
+        #challenge2()
+        print("Currently working on it still... Come back later!")
     else:
         printUsage()
         exit(0)
